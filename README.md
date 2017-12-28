@@ -47,6 +47,7 @@
 |4.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-4.0.png" width="30%" /> | -.42895371E+03 | -.42844734E+03 |
 
 - (400)晶面，S-I 
+
 |初始值 |图片| 能量 |
 | - | :-: |-: | 
 |1.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-s-1.5.png" width="30%" /> | -.42895371E+03 | -.42504783E+03 |
