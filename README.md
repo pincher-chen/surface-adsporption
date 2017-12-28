@@ -35,15 +35,16 @@
 |3.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-3.5.png" width="30%" /> | -.42892827E+03 |
 |4.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-4.0.png" width="30%" /> | -.42899335E+03 |
 
-- (422)晶面，Fe-I 
+- (400)晶面，Fe-I 
 
-|初始值 | 优化值（点-点） | z坐标差值（点-面）| 能量 |
+|初始值 |图片| 能量 |
 | - | :-: | :-:  |-: | 
-|2.5 | 2.995  | 0.065| -.85567898E+03 |
-|2.7 | 4.99   | 0.08 | -.85605523E+03 |
-|2.85 | 4.91  | 0.079 | -.85425337E+03 | 
-|2.4 | 3.07	  | 0.089 | -0.855704894439E+03 |
-|2.3 | 3	     | 0.067| -.85572271E+03 |
+|1.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-1.5.png" width="30%" /> | -.42895371E+03 | -.42855536E+03 |
+|2.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-2.0.png" width="30%" /> | -.42895371E+03 | -.42852913E+03 |
+|2.5 |<img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-2.5.png" width="30%" /> | -.42895371E+03 | -.42857576E+03 |
+|3.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-3.0.png" width="30%" /> | -.42895371E+03 | -.42867647E+03 | 
+|3.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-3.5.png" width="30%" /> | -.42895371E+03 | -.42853184E+03 |
+|4.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-4.0.png" width="30%" /> | -.42895371E+03 | -.42844734E+03 |
 
 
 ## 5.计算吸附能
