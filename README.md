@@ -29,7 +29,7 @@
 |初始值 | 图片| 能量 |
 | - | :-:  |-: | 
 |1.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-1.5.png" width="30%" /> | -.42895371E+03 |
-|2   | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-2.0.png" width="30%" /> | 0.062|  -.42844921E+03 |
+|2   | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-2.0.png" width="30%" /> |  -.42844921E+03 |
 |2.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-2.5.png" width="30%" /> | -.42892336E+03 | 
 |3.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-3.0.png" width="30%" /> | -.42825192E+03 |
 |3.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-3.5.png" width="30%" /> | -.42892827E+03 |
