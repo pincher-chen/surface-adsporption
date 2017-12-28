@@ -38,7 +38,7 @@
 - (400)晶面，Fe-I 
 
 |初始值 |图片| 能量 |
-| - | :-: | :-:  |-: | 
+| - | :-: |-: | 
 |1.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-1.5.png" width="30%" /> | -.42895371E+03 | -.42855536E+03 |
 |2.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-2.0.png" width="30%" /> | -.42895371E+03 | -.42852913E+03 |
 |2.5 |<img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-2.5.png" width="30%" /> | -.42895371E+03 | -.42857576E+03 |
