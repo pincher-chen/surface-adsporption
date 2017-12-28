@@ -46,6 +46,16 @@
 |3.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-3.5.png" width="30%" /> | -.42895371E+03 | -.42853184E+03 |
 |4.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-4.0.png" width="30%" /> | -.42895371E+03 | -.42844734E+03 |
 
+- (400)晶面，S-I 
+|初始值 |图片| 能量 |
+| - | :-: |-: | 
+|1.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-s-1.5.png" width="30%" /> | -.42895371E+03 | -.42504783E+03 |
+|2.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-s-2.0.png" width="30%" /> | -.42895371E+03 | -.42880188E+03 |
+|2.5 |<img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-s-2.5.png" width="30%" /> | -.42895371E+03 | -.42859546E+03 |
+|3.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-s-3.0.png" width="30%" /> | -.42895371E+03 | -.42866197E+03 | 
+|3.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-s-3.5.png" width="30%" /> | -.42895371E+03 | -.42867291E+03 |
+|4.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-s-4.0.png" width="30%" /> | -.42895371E+03 | -.42902563E+03 |
+
 
 ## 5.计算吸附能
 根据优化结构，展开3x4个样本进行吸附能计算（如果不收敛，回到4）；
