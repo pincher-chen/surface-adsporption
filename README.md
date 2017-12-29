@@ -33,7 +33,7 @@
 |2.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-2.5.png" width="30%" /> | -.42892336E+03 | 
 |3.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-3.0.png" width="30%" /> | -.42825192E+03 |
 |3.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-3.5.png" width="30%" /> | -.42892827E+03 |
-|4.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-4.0.png" width="30%" /> | <font color=red>-.42899335E+03</font> |
+|4.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-4.0.png" width="30%" /> | <font color=red> -.42899335E+03 </font> |
 
 - (400)晶面，Fe-I 
 
