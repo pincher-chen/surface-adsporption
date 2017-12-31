@@ -26,7 +26,7 @@
 ### 4.1
 - (400)晶面，Co-I  
 
-|Co-I距离 | 图片| 能量 |
+|Co-I初始距离 | 图片| 能量 |
 | - | :-:  |-: | 
 |1.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-1.5.png" width="30%" /> | -.42895371E+03 |
 |2   | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-2.0.png" width="30%" /> |  -.42844921E+03 |
@@ -37,7 +37,7 @@
 
 - (400)晶面，Fe-I 
 
-|Fe-I距离 |图片| 能量 |
+|Fe-I初始距离 |图片| 能量 |
 | - | :-: |-: | 
 |1.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-1.5.png" width="30%" /> | -.42855536E+03 |
 |2.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-2.0.png" width="30%" /> | --.42852913E+03 |
@@ -48,7 +48,7 @@
 
 - (400)晶面，S-I 
 
-|S-I距离 |图片| 能量 |
+|S-I初始距离 |图片| 能量 |
 | - | :-: |-: | 
 |1.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-s-1.5.png" width="30%" /> |  -.42504783E+03 |
 |2.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-s-2.0.png" width="30%" /> |  -.42880188E+03 |
@@ -61,7 +61,7 @@
 
 - (422)晶面，Co-I 
 
-|Co-I距离 |图片| 能量 |
+|Co-I初始距离 |图片| 能量 |
 | - | :-: |-: | 
 |1.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/422-co-1.5.png" width="30%" /> | -.42855536E+03 |
 |2.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/422-co-2.0.png" width="30%" /> | --.42852913E+03 |
@@ -72,7 +72,7 @@
 
 - (422)晶面，Fe-I 
 
-|S-I距离 |图片| 能量 |
+|S-I初始距离 |图片| 能量 |
 | - | :-: |-: | 
 |1.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/422-fe-1.5.png" width="30%" /> |  -.42504783E+03 |
 |2.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/422-fe-2.0.png" width="30%" /> |  -.42880188E+03 |
@@ -83,7 +83,7 @@
 
 - (422)晶面，S-I 
 
-|S-I距离 |图片| 能量 |
+|S-I初始距离 |图片| 能量 |
 | - | :-: |-: | 
 |1.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/422-s-1.5.png" width="30%" /> |  -.42504783E+03 |
 |2.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/422-s-2.0.png" width="30%" /> |  -.42880188E+03 |
