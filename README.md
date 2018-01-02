@@ -26,7 +26,8 @@
 ### 4.1
 [440晶面优化](https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-structure.md)     
 产生两个最优结构，I在Co和S表面形成一个最优结构，产生Co-I-Co键，能量分别为-.42899335E+03和-.42902563E+033；I在Fe表面形成一个最优结构（可能是Fe-I键），能量为-.42867647E+03。    
-[422晶面优化](https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/422-structure.md)    
+
+[422晶面优化](https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/422-structure.md)     
 产生三种优化结构，I在Co表面形成Co-I-Co键，最优能量为-.85754918E+03；I在Fe表面形成Fe-I-Co键，最优能量为-.85588381E+03；I在S表面形成Fe-I-Fe键，能量为-.85599415E+03。
 
 [311晶面优化](https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/311-structure.md)    
