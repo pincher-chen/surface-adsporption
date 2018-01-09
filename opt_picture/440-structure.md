@@ -1,4 +1,4 @@
-- (400)晶面，Co-I  
+- (440)晶面，Co-I  
 
 |Co-I初始距离 | 图片| 能量 |
 | - | :-:  |-: | 
@@ -9,7 +9,7 @@
 |3.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-3.5.png" width="30%" /> | -.42892827E+03 |
 |4.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-4.0.png" width="30%" /> | **-.42899335E+03** |
 
-- (400)晶面，Fe-I 
+- (440)晶面，Fe-I 
 
 |Fe-I初始距离 |图片| 能量 |
 | - | :-: |-: | 
@@ -20,7 +20,7 @@
 |3.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-3.5.png" width="30%" /> | -.42853184E+03 |
 |4.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-fe-4.0.png" width="30%" /> | -.42844734E+03 |
 
-- (400)晶面，S-I 
+- (440)晶面，S-I 
 
 |S-I初始距离 |图片| 能量 |
 | - | :-: |-: | 
