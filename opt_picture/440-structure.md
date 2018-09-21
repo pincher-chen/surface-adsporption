@@ -1,13 +1,13 @@
 - (440)晶面，Co-I  
 
-|Co-I初始距离 | 图片| 能量 |
-| - | :-:  |-: | 
-|1.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-1.5.png" width="30%" /> | -.42895371E+03 |
-|2   | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-2.0.png" width="30%" /> |  -.42844921E+03 |
-|2.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-2.5.png" width="30%" /> | -.42892336E+03 | 
-|3.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-3.0.png" width="30%" /> | -.42825192E+03 |
-|3.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-3.5.png" width="30%" /> | -.42892827E+03 |
-|4.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-4.0.png" width="30%" /> | **-.42899335E+03** |
+|Co-I初始距离 | 图片| 界面能量 |  吸附能 |
+| - | :-:  | :-: | -:| 
+|1.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-1.5.png" width="30%" /> | -.42895371E+03 | xx |
+|2   | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-2.0.png" width="30%" /> |  -.42844921E+03 | xx | 
+|2.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-2.5.png" width="30%" /> | -.42892336E+03 | xx |
+|3.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-3.0.png" width="30%" /> | -.42825192E+03 | xx |
+|3.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-3.5.png" width="30%" /> | -.42892827E+03 | xx |
+|4.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/440-co-4.0.png" width="30%" /> | **-.42899335E+03** | xx |
 
 - (440)晶面，Fe-I 
 
