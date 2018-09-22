@@ -1,5 +1,6 @@
 - (311)晶面，Co-I 
 
+
 |Co-I初始距离 |图片| 能量 |
 | - | :-: |-: | 
 |1.5 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/311-co-1.5.png" width="30%" /> | -.17124145E+04 |
@@ -10,6 +11,9 @@
 |4.0 | <img src="https://github.com/pincher-chen/surface-adsporption/blob/master/opt_picture/311-co-4.0.png" width="30%" /> | -.17147285E+04 |
 
 - (311)晶面，Fe-I 
+纯体系：E0= -.17228016E+04   
+I：E0= -.24861913E+00  
+3.1混合体系： E0= -.17087259E+04  
 
 |Fe-I初始距离 |图片| 能量 |
 | - | :-: |-: | 
